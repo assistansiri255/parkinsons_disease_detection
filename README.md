@@ -4,18 +4,10 @@
 1.This repository contains an **interactive machine learning web application** that predicts the presence of **Parkinson’s Disease** based on input voice and biomedical features.  
 2.The app is built using **Streamlit** and utilizes an **XGBoost classifier** for reliable prediction.
 
-## Live Demo (Deployed)
+## Project Overview
 
-👉 **Click here to try the live app:**  
-https://parkinsonsdiseasedetection.streamlit.app
-
-✔️ No need to install anything — just open the link and start using the app!
-
-## 🔍 Project Overview
-
-Parkinson’s Disease is a progressive neurological disorder that affects movement and vocal signals due to a reduction in dopamine-producing neurons. Early detection is crucial in improving patient care and treatment planning.
-
-This project uses machine learning to analyze biomedical voice measurements and other health-related features to predict whether a user is likely to have Parkinson’s Disease.
+1.Parkinson’s Disease is a progressive neurological disorder that affects movement and vocal signals due to a reduction in dopamine-producing neurons. Early detection is crucial in improving patient care and treatment planning.
+2.This project uses machine learning to analyze biomedical voice measurements and other health-related features to predict whether a user is likely to have Parkinson’s Disease.
 
 # Features
 
