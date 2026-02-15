@@ -1,12 +1,14 @@
 
-# parkinsons disease detection web app
+#   Parkinsons Disease Detection web app
 
 1.This repository contains an **interactive machine learning web application** that predicts the presence of **Parkinson’s Disease** based on input voice and biomedical features.  
+
 2.The app is built using **Streamlit** and utilizes an **XGBoost classifier** for reliable prediction.
 
 ## Project Overview
 
 1.Parkinson’s Disease is a progressive neurological disorder that affects movement and vocal signals due to a reduction in dopamine-producing neurons. Early detection is crucial in improving patient care and treatment planning.
+
 2.This project uses machine learning to analyze biomedical voice measurements and other health-related features to predict whether a user is likely to have Parkinson’s Disease.
 
 # Features
